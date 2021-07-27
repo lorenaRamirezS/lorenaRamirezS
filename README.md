@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 Desarrolladora Full Stack Junior, mis principales lenguajes / plataformas de programación son: Java, TypeScript.
  
