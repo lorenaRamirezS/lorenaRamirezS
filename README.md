@@ -1,4 +1,4 @@
-### console.log('Hola mundo!! 👋')
+### System.out.println("Hola mundo!! 👋");
 
 Desarrolladora Full Stack Junior, mis principales lenguajes / plataformas de programación son: Java, TypeScript.
  
